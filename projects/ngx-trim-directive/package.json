@@ -3,10 +3,8 @@
   "version": "3.0.0",
   "author": "KingMario <gcyyq@hotmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/KingMario/ngx-trim-directive/issues"
-  },
-  "homepage": "https://github.com/KingMario/ngx-trim-directive/tree/main/projects/ngx-trim-directive#readme",
+  "bugs": "https://github.com/KingMario/ngx-trim-directive/issues",
+  "homepage": "https://github.com/KingMario/ngx-trim-directive/tree/main/projects/ngx-trim-directive#angular-trim-directive",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/KingMario/ngx-trim-directive.git"
