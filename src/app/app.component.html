@@ -1,0 +1,12 @@
+<input [(ngModel)]="title" [trim]="trim">
+
+<div>
+  "{{ title }}"
+</div>
+
+<label for="trim-select">Trim Value</label>
+<select id="trim-select" [(ngModel)]="trim">
+  <option [ngValue]="''">Trim</option>
+  <option [ngValue]="false">Don't Trim</option>
+  <option value="blur">Trim on blur</option>
+</select>
