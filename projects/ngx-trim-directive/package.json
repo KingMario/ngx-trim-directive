@@ -1,6 +1,6 @@
 {
   "name": "ngx-trim-directive",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "author": "KingMario <gcyyq@hotmail.com>",
   "license": "MIT",
   "bugs": "https://github.com/KingMario/ngx-trim-directive/issues",
@@ -16,7 +16,6 @@
     "input",
     "blur"
   ],
-  "main": "index.d.js",
   "peerDependencies": {
     "@angular/common": ">= 16.0.0",
     "@angular/core": ">= 16.0.0"
